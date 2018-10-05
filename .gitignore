@@ -5,3 +5,4 @@
 *tmp
 *.h5
 *.json
+*.ipynb_checkpoints
